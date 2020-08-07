@@ -3,5 +3,7 @@ function setup() {
 }
 function draw() {
   background(0);
-  point(200,200,8);
+  strokeWeight(4);
+  stroke(255)
+  point(200,200);
 }
