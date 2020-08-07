@@ -3,4 +3,5 @@ function setup() {
 }
 function draw() {
   background(0);
+  point(200,200,8);
 }
